@@ -20,3 +20,5 @@ A digital humanities study on r/suicidewatch from 2010 to 2020, and comparativel
 | r/Advice        | 2020 | 312437          |
 | r/TrueAskReddit | 2020 | 1729            |
 
+# Results
+![DH_Final_Poster_Jerome_Marcus](https://user-images.githubusercontent.com/38340979/154833798-660ebd13-fd2b-4e11-a1d5-af3ce211059f.png)
